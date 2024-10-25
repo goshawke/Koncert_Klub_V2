@@ -1,30 +1,30 @@
 import React from 'react';
-import { NavLink } from "react-router-dom";
+import { HashRouter as Router, NavLink } from "react-router-dom";
 
 const Header = () => {
 
     return (
         <header className='header'>
-            <NavLink exact activeClassName="active" to="Koncert_Klub_V2/" className="HomeLink"><h1>KoncertKlub</h1></NavLink>
+            <NavLink exact activeClassName="active" to="/" className="HomeLink"><h1>KoncertKlub</h1></NavLink>
             <nav>
                 <ul>
                     <li>
-                        <NavLink exact activeClassName="active" to="Koncert_Klub_V2/PastShows">
+                        <NavLink exact activeClassName="active" to="/PastShows">
                             Past Shows
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink activeClassName="active" to="Koncert_Klub_V2/UpcomingShows">
+                        <NavLink activeClassName="active" to="/UpcomingShows">
                             Upcoming Shows
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink activeClassName="active" to="Koncert_Klub_V2/Gallery">
+                        <NavLink activeClassName="active" to="/Gallery">
                             Gallery
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink activeClassName="active" to="Koncert_Klub_V2/AboutUs">
+                        <NavLink activeClassName="active" to="/AboutUs">
                             About Us
                         </NavLink>
                     </li>
