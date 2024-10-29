@@ -1,6 +1,6 @@
 {
   "name": "koncert-klub",
-  "homepage": "http://goshawke.github.io/Koncert_Klub_V2/",
+  "homepage": "http://goshawke.github.io/Koncert_Klub_V2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

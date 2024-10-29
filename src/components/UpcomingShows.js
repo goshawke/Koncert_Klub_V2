@@ -12,7 +12,7 @@ const UpcomingShows = () => {
                     <th>Date</th>
                 </tr>
                 <tr>
-                    <td>The Rayboys</td>
+                    <td>The Ratboys</td>
                     <td class="venue">9:30 Club</td>
                     <td class="city">Washington D.C.</td>
                     <td>11/12/24</td>
