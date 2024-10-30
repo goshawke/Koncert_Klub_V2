@@ -79,8 +79,10 @@ header li {
   position: absolute;
   top: 50px;
   min-width: 300px;
+  height: max-content;
+  min-height: 90vh;
   width:100%;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 
 .feature {
@@ -143,8 +145,10 @@ header li {
 #past_shows, #upcoming_shows{
   display: flex;
   min-width: 300px;
-  width:100%;
-  height: 95vh;
+  width: 100%;
+  height: max-content;
+  min-height: 90vh;
+
   color: white;
   flex-direction: column;
   text-align: center;
@@ -219,7 +223,7 @@ table a{
 }
 
 #section_about_us{
-  margin: 50px 15px 75px 15px;
+  margin: 20px 15px 30px 15px;
   display: flex;
   background-color: black;
   flex-direction: column;
@@ -244,7 +248,8 @@ table a{
   text-align: center;
 
   /*Variable*/
-  font-size: 2rem;
+  font-size: 1.75rem;
+
 }
 
 footer {
