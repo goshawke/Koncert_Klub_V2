@@ -102,7 +102,7 @@ header li {
   height: max-content;
   min-height: 90vh;
   width:100%;
-  margin-bottom: 50px;
+  padding-bottom: 25px;
 }
 
 .feature {
@@ -131,9 +131,7 @@ header li {
 
   color: white;
   margin-bottom: 100px;
-  background: rgba(8, 8, 8, 0.1);
   padding: 10px;
-  border-radius: 100%;
 }
 
 .shows{
@@ -168,7 +166,7 @@ header li {
   font-size: 1.75rem;
 }
 
-#past_shows, #upcoming_shows{
+#past_shows, #upcoming_shows, #section_about_us{
   display: flex;
   min-width: 300px;
   width: 100%;
@@ -181,6 +179,7 @@ header li {
 
   align-items: center;
   justify-content: center;
+
  
 }
 
@@ -205,7 +204,7 @@ header li {
   
 }
 
-#past_shows h2, #upcoming_shows h2, #section_about_us h2{
+#past_shows h2, #upcoming_shows h2{
   margin: 0 auto;
   padding: 5px;
   color: yellowgreen;
@@ -217,6 +216,8 @@ header li {
   font-size: 2.25rem;
 
   text-decoration: underline;
+
+  
 }
 
 #past_shows table thead th:nth-child(1) , #upcoming_shows table thead th:nth-child(1) {
@@ -252,34 +253,40 @@ table a{
 }
 
 #section_about_us{
-  margin: 20px 15px 30px 15px;
-  display: flex;
-  background-color: black;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-width: 340px;
+  padding-top: 30px;
+  background-image: url("res/backgrounds/merriweather_bg_1.JPG");
+  background-position:center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #section_about_us img{
   /*Variable*/
-  min-height: 200px;
+  min-height: 300px;
   /*Variable*/
-  min-width: 300px;
+  min-width: 200px;
 
   margin: 0;
+
+  border-radius: 10%;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 
 #section_about_us p{
+  width: 90%;
   color: yellowgreen;
-  padding: 10px 15px 30px 15px;
-  margin: 0;
+  padding: 15px;
+  margin: 10px;
   text-align: center;
 
   /*Variable*/
   font-size: 1.5rem;
 
   font-family: "Permanent Marker";
+
+  background: rgba(8, 8, 8, 0.8);
 
 }
 
@@ -400,6 +407,10 @@ footer {
 
 @media only screen and (min-width:800px)
 {
+
+  main{
+    padding-bottom: 35px;
+  }
 
   header {
     /*Variable*/
