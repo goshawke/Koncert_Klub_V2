@@ -4,7 +4,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-const ImageSlider = ({ images }) => {
+const ImageSlider = ({ media=[] }) => {
   const settings = {    
     dots: true,
     infinite: true,
@@ -13,12 +13,24 @@ const ImageSlider = ({ images }) => {
     slidesToScroll: 1
   };
 
+  const isVideo = (file) => {
+    const videoExtensions = ['.mp4', '.webm', '.ogg'];
+    return videoExtensions.some((ext) => file.toLowerCase().endsWith(ext));
+  };
+
   return (
     <div className="image-slider">
       <Slider {...settings}>
-        {images.map((image, index) => (
+        {media.map((src, index) => (
           <div key={index}>
-            <img src={image} alt={`Slide ${index}`} />
+            {isVideo(src) ? (
+                        <video controls style={{ width: '100%' }}>
+                            <source src={src} type="video/mp4" />
+                            Your browser does not support the video tag.
+                        </video>
+                    ) : (
+                        <img src={src} alt={`Media ${index}`} />
+                    )}
           </div>
         ))}
       </Slider>

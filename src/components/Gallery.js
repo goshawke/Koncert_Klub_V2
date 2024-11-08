@@ -5,9 +5,9 @@ import { BackButton } from './BackButton';
 
 
 
-const Gallery = ( {images} ) => {return (
+const Gallery = ( {media} ) => {return (
     <div className="Gallery">
-        <ImageSlider images={images} />
+        <ImageSlider media={media} />
         <BackButton />
     </div>
   );
