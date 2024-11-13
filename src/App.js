@@ -37,8 +37,8 @@ import img_mclusky_2 from "./res/media/mclusky_3.23.24/IMG_7931.jpeg"
 import img_mclusky_3 from "./res/media/mclusky_3.23.24/IMG_7932.jpeg"
 import img_mclusky_4 from "./res/media/mclusky_3.23.24/IMG_7936.jpeg"
 
-// import mp4_mclusky_1 from "./res/media/mclusky_3.23.24/IMG_6063.mp4"
-// import mp4_mclusky_2 from "./res/media/mclusky_3.23.24/IMG_6068.mp4"
+import mp4_mclusky_1 from "./res/media/mclusky_3.23.24/IMG_6064.mp4"
+import mp4_mclusky_2 from "./res/media/mclusky_3.23.24/IMG_6067.mp4"
 
 // Pics from Belle & Sebastian
 import img_belle_sebastian_1 from "./res/media/belle_sebastian_5.2.24/IMG_6433.jpeg"
@@ -47,11 +47,11 @@ import img_belle_sebastian_3 from "./res/media/belle_sebastian_5.2.24/IMG_8041.j
 import img_belle_sebastian_4 from "./res/media/belle_sebastian_5.2.24/IMG_8044.jpeg"
 import img_belle_sebastian_5 from "./res/media/belle_sebastian_5.2.24/IMG_8045.jpeg"
 
-// import mp4_belle_sebastian_1 from "./res/media/belle_sebastian_5.2.24/IMG_6436.mp4"
-// import mp4_belle_sebastian_2 from "./res/media/belle_sebastian_5.2.24/IMG_6438.mp4"
-// import mp4_belle_sebastian_3 from "./res/media/belle_sebastian_5.2.24/IMG_6439.mp4"
-// import mp4_belle_sebastian_4 from "./res/media/belle_sebastian_5.2.24/IMG_6441.mp4"
-// import mp4_belle_sebastian_5 from "./res/media/belle_sebastian_5.2.24/IMG_6442.mp4"
+import mp4_belle_sebastian_1 from "./res/media/belle_sebastian_5.2.24/IMG_6436.mp4"
+import mp4_belle_sebastian_2 from "./res/media/belle_sebastian_5.2.24/IMG_6438.mp4"
+import mp4_belle_sebastian_3 from "./res/media/belle_sebastian_5.2.24/IMG_6439.mp4"
+import mp4_belle_sebastian_4 from "./res/media/belle_sebastian_5.2.24/IMG_6441.mp4"
+import mp4_belle_sebastian_5 from "./res/media/belle_sebastian_5.2.24/IMG_6442.mp4"
 
 // Pics from The Decemberists
 import img_decemberists_1 from "./res/media/decemberists_5.10.24/IMG_6466.jpeg"
