@@ -57,10 +57,10 @@ import mp4_belle_sebastian_5 from "./res/media/belle_sebastian_5.2.24/IMG_6442.m
 import img_decemberists_1 from "./res/media/decemberists_5.10.24/IMG_6466.jpeg"
 import img_decemberists_2 from "./res/media/decemberists_5.10.24/IMG_8058.jpeg"
 
-// import mp4_decemberists_1 from "./res/media/decemberists_5.10.24/IMG_6464.mp4"
-// import mp4_decemberists_2 from "./res/media/decemberists_5.10.24/IMG_6468.mp4"
-// import mp4_decemberists_3 from "./res/media/decemberists_5.10.24/IMG_6469.mp4"
-// import mp4_decemberists_4 from "./res/media/decemberists_5.10.24/IMG_8059.mp4"
+import mp4_decemberists_1 from "./res/media/decemberists_5.10.24/IMG_6464.mp4"
+import mp4_decemberists_2 from "./res/media/decemberists_5.10.24/IMG_6468.mp4"
+import mp4_decemberists_3 from "./res/media/decemberists_5.10.24/IMG_6469.mp4"
+import mp4_decemberists_4 from "./res/media/decemberists_5.10.24/IMG_8059.mp4"
 
 // Pics from Echo & The Bunnymen
 import img_echo_1 from "./res/media/echo_5.16.24/IMG_8066.jpeg"
