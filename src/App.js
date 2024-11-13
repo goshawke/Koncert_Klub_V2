@@ -16,8 +16,8 @@ import img_petey_1 from "./res/media/petey_11.5.23/IMG_5330.jpeg"
 import img_petey_2 from "./res/media/petey_11.5.23/IMG_5332.jpeg"
 import img_petey_3 from "./res/media/petey_11.5.23/IMG_5333.jpeg"
 
-// import mp4_petey_1 from "./res/media/petey_11.5.23/IMG_5335.mp4"
-// import mp4_petey_2 from "./res/media/petey_11.5.23/IMG_5336.mp4"
+import mp4_petey_1 from "./res/media/petey_11.5.23/IMG_5335.mp4"
+import mp4_petey_2 from "./res/media/petey_11.5.23/IMG_5336.mp4"
 
 // Pics from The Kills
 import img_kills_1 from "./res/media/kills_3.1.24/IMG_5869.jpeg"
@@ -27,9 +27,9 @@ import img_kills_4 from "./res/media/kills_3.1.24/IMG_7708.jpeg"
 import img_kills_5 from "./res/media/kills_3.1.24/IMG_7713.jpeg"
 import img_kills_6 from "./res/media/kills_3.1.24/IMG_7696.jpeg"
 
-// import mp4_kills_1 from "./res/media/kills_3.1.24/IMG_5862.mp4"
-// import mp4_kills_2 from "./res/media/kills_3.1.24/IMG_5867.mp4"
-// import mp4_kills_3 from "./res/media/kills_3.1.24/IMG_5875.mp4"
+import mp4_kills_1 from "./res/media/kills_3.1.24/IMG_5862.mp4"
+import mp4_kills_2 from "./res/media/kills_3.1.24/IMG_5867.mp4"
+import mp4_kills_3 from "./res/media/kills_3.1.24/IMG_5875.mp4"
 
 // Pics from McLusky
 import img_mclusky_1 from "./res/media/mclusky_3.23.24/IMG_7925.jpeg"
