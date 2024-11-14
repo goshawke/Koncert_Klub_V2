@@ -84,10 +84,10 @@ import img_white_reaper_1 from "./res/media/white_reaper_6.21.24/IMG_8197.jpeg"
 import img_white_reaper_2 from "./res/media/white_reaper_6.21.24/IMG_8201.jpeg"
 import img_white_reaper_3 from "./res/media/white_reaper_6.21.24/IMG_8209.jpeg"
 
-// import mp4_white_reaper_1 from "./res/media/white_reaper_6.21.24/IMG_6931.mp4"
-// import mp4_white_reaper_2 from "./res/media/white_reaper_6.21.24/IMG_8202.mp4"
-// import mp4_white_reaper_3 from "./res/media/white_reaper_6.21.24/IMG_8204.mp4"
-// import mp4_white_reaper_4 from "./res/media/white_reaper_6.21.24/IMG_8206.mp4"
+import mp4_white_reaper_1 from "./res/media/white_reaper_6.21.24/IMG_6931.mp4"
+import mp4_white_reaper_2 from "./res/media/white_reaper_6.21.24/IMG_8202.mp4"
+import mp4_white_reaper_3 from "./res/media/white_reaper_6.21.24/IMG_8204.mp4"
+import mp4_white_reaper_4 from "./res/media/white_reaper_6.21.24/IMG_8206.mp4"
 
 // Pics from Third Eye Blind
 import img_third_eye_1 from "./res/media/third_eye_7.19.24/20240719_223412.jpg"
