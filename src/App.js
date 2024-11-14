@@ -116,19 +116,19 @@ import img_glass_animals_4 from "./res/media/glass_animals_8.17.24/IMG_8533.jpeg
 import img_glass_animals_5 from "./res/media/glass_animals_8.17.24/IMG_8534.jpeg"
 import img_glass_animals_6 from "./res/media/glass_animals_8.17.24/IMG_8541.jpeg"
 
-// import mp4_glass_animals_1 from "./res/media/glass_animals_8.17.24/IMG_7249.mp4"
-// import mp4_glass_animals_2 from "./res/media/glass_animals_8.17.24/IMG_7250.mp4"
-// import mp4_glass_animals_3 from "./res/media/glass_animals_8.17.24/IMG_8536.mp4"
-// import mp4_glass_animals_4 from "./res/media/glass_animals_8.17.24/IMG_8544.mp4"
+import mp4_glass_animals_1 from "./res/media/glass_animals_8.17.24/IMG_7249.mp4"
+import mp4_glass_animals_2 from "./res/media/glass_animals_8.17.24/IMG_7250.mp4"
+import mp4_glass_animals_3 from "./res/media/glass_animals_8.17.24/IMG_8536.mp4"
+import mp4_glass_animals_4 from "./res/media/glass_animals_8.17.24/IMG_8544.mp4"
 
 // Pics from Why?
 import img_why_1 from "./res/media/why_8.19.24/IMG_8554.jpeg"
 import img_why_2 from "./res/media/why_8.19.24/IMG_8558.jpeg"
 import img_why_3 from "./res/media/why_8.19.24/IMG_8559.jpeg"
 
-// import mp4_why_1 from "./res/media/why_8.19.24/IMG_8555.mp4"
-// import mp4_why_2 from "./res/media/why_8.19.24/IMG_8556.mp4"
-// import mp4_why_3 from "./res/media/why_8.19.24/IMG_8560.mp4"
+import mp4_why_1 from "./res/media/why_8.19.24/IMG_8555.mp4"
+import mp4_why_2 from "./res/media/why_8.19.24/IMG_8556.mp4"
+import mp4_why_3 from "./res/media/why_8.19.24/IMG_8560.mp4"
 
 // Pics from Jack White 
 import img_jack_white_1 from "./res/media/jack_white_8.27.24/IMG_8641.jpeg"
@@ -137,10 +137,10 @@ import img_jack_white_3 from "./res/media/jack_white_8.27.24/IMG_8657.jpeg"
 import img_jack_white_4 from "./res/media/jack_white_8.27.24/IMG_8659.jpeg"
 import img_jack_white_5 from "./res/media/jack_white_8.27.24/IMG_8670.jpeg"
 
-// import mp4_jack_white_1 from "./res/media/jack_white_8.27.24/IMG_7295.mp4"
-// import mp4_jack_white_2 from "./res/media/jack_white_8.27.24/IMG_7296.mp4"
-// import mp4_jack_white_3 from "./res/media/jack_white_8.27.24/IMG_7297.mp4"
-// import mp4_jack_white_4 from "./res/media/jack_white_8.27.24/IMG_7298.mp4"
+import mp4_jack_white_1 from "./res/media/jack_white_8.27.24/IMG_7295.mp4"
+import mp4_jack_white_2 from "./res/media/jack_white_8.27.24/IMG_7296.mp4"
+import mp4_jack_white_3 from "./res/media/jack_white_8.27.24/IMG_7297.mp4"
+import mp4_jack_white_4 from "./res/media/jack_white_8.27.24/IMG_7298.mp4"
 
 // Pics from Mitski and Alvvays
 import img_mitski_alvvays_1 from "./res/media/mitski_and_alvvays_8.31.24/IMG_8705.jpeg"
@@ -148,9 +148,9 @@ import img_mitski_alvvays_2 from "./res/media/mitski_and_alvvays_8.31.24/IMG_870
 import img_mitski_alvvays_3 from "./res/media/mitski_and_alvvays_8.31.24/IMG_8709.jpeg"
 import img_mitski_alvvays_4 from "./res/media/mitski_and_alvvays_8.31.24/IMG_8719.jpeg"
 
-// import mp4_mitski_alvvays_1 from "./res/media/mitski_and_alvvays_8.31.24/IMG_7325.mp4"
-// import mp4_mitski_alvvays_2 from "./res/media/mitski_and_alvvays_8.31.24/IMG_8712.mp4"
-// import mp4_mitski_alvvays_3 from "./res/media/mitski_and_alvvays_8.31.24/IMG_8714.mp4"
+import mp4_mitski_alvvays_1 from "./res/media/mitski_and_alvvays_8.31.24/IMG_7325.mp4"
+import mp4_mitski_alvvays_2 from "./res/media/mitski_and_alvvays_8.31.24/IMG_8712.mp4"
+import mp4_mitski_alvvays_3 from "./res/media/mitski_and_alvvays_8.31.24/IMG_8714.mp4"
 
 // Pics from Charlie Bliss
 import img_charlie_bliss_1 from "./res/media/charlie_bliss_9.5.24/IMG_8737.jpeg"
@@ -161,8 +161,8 @@ import img_charlie_bliss_5 from "./res/media/charlie_bliss_9.5.24/IMG_8759.jpeg"
 import img_charlie_bliss_6 from "./res/media/charlie_bliss_9.5.24/IMG_8761.jpeg"
 import img_charlie_bliss_7 from "./res/media/charlie_bliss_9.5.24/IMG_8762.jpeg"
 
-// import mp4_charlie_bliss_1 from "./res/media/charlie_bliss_9.5.24/IMG_8749.mp4"
-// import mp4_charlie_bliss_2 from "./res/media/charlie_bliss_9.5.24/IMG_8765.mp4"
+import mp4_charlie_bliss_1 from "./res/media/charlie_bliss_9.5.24/IMG_8749.mp4"
+import mp4_charlie_bliss_2 from "./res/media/charlie_bliss_9.5.24/IMG_8765.mp4"
 
 // Pics from Built to Spill
 import img_BTS_1 from "./res/media/built_to_spill_9.8.24/IMG_8779.jpeg"
@@ -172,9 +172,9 @@ import img_BTS_4 from "./res/media/built_to_spill_9.8.24/IMG_8785.jpeg"
 import img_BTS_5 from "./res/media/built_to_spill_9.8.24/IMG_8787.jpeg"
 import img_BTS_6 from "./res/media/built_to_spill_9.8.24/IMG_8799.jpeg"
 
-// import mp4_BTS_1 from "./res/media/built_to_spill_9.8.24/IMG_8797.mp4"
-// import mp4_BTS_2 from "./res/media/built_to_spill_9.8.24/IMG_8789.mp4"
-// import mp4_BTS_3 from "./res/media/built_to_spill_9.8.24/IMG_8791.mp4"
+import mp4_BTS_1 from "./res/media/built_to_spill_9.8.24/IMG_8797.mp4"
+import mp4_BTS_2 from "./res/media/built_to_spill_9.8.24/IMG_8789.mp4"
+import mp4_BTS_3 from "./res/media/built_to_spill_9.8.24/IMG_8791.mp4"
 
 // Pics from FIDLAR
 import img_fidlar_1 from "./res/media/fidlar_10.14.24/IMG_8913.jpeg"
@@ -185,20 +185,20 @@ import img_fidlar_5 from "./res/media/fidlar_10.14.24/IMG_8922.jpeg"
 import img_fidlar_6 from "./res/media/fidlar_10.14.24/IMG_8925.jpeg"
 import img_fidlar_7 from "./res/media/fidlar_10.14.24/IMG_8926.jpeg"
 
-// import mp4_fidlar_1 from "./res/media/fidlar_10.14.24/IMG_8924.mp4"
-// import mp4_fidlar_2 from "./res/media/fidlar_10.14.24/IMG_8917.mp4"
+import mp4_fidlar_1 from "./res/media/fidlar_10.14.24/IMG_8924.mp4"
+import mp4_fidlar_2 from "./res/media/fidlar_10.14.24/IMG_8917.mp4"
 
 // Pics from Vampire Weekend
 import img_vampire_weekend_1 from "./res/media/vampire_weekend_10.1.24/46B2FDD6-B3A2-4B4E-B102-988C1C2CC745.jpg"
 import img_vampire_weekend_2 from "./res/media/vampire_weekend_10.1.24/IMG_7589.JPG"
 
-// import mp4_vampire_weekend_1 from "./res/media/vampire_weekend_10.1.24/IMG_7590.mp4"
-// import mp4_vampire_weekend_2 from "./res/media/vampire_weekend_10.1.24/IMG_7591.mp4"
-// import mp4_vampire_weekend_3 from "./res/media/vampire_weekend_10.1.24/IMG_7593.mp4"
-// import mp4_vampire_weekend_4 from "./res/media/vampire_weekend_10.1.24/IMG_7594.mp4"
-// import mp4_vampire_weekend_5 from "./res/media/vampire_weekend_10.1.24/IMG_7595.mp4"
-// import mp4_vampire_weekend_6 from "./res/media/vampire_weekend_10.1.24/IMG_7596.mp4"
-// import mp4_vampire_weekend_7 from "./res/media/vampire_weekend_10.1.24/IMG_7599.mp4"
+import mp4_vampire_weekend_1 from "./res/media/vampire_weekend_10.1.24/IMG_7590.mp4"
+import mp4_vampire_weekend_2 from "./res/media/vampire_weekend_10.1.24/IMG_7591.mp4"
+import mp4_vampire_weekend_3 from "./res/media/vampire_weekend_10.1.24/IMG_7593.mp4"
+import mp4_vampire_weekend_4 from "./res/media/vampire_weekend_10.1.24/IMG_7594.mp4"
+import mp4_vampire_weekend_5 from "./res/media/vampire_weekend_10.1.24/IMG_7595.mp4"
+import mp4_vampire_weekend_6 from "./res/media/vampire_weekend_10.1.24/IMG_7596.mp4"
+import mp4_vampire_weekend_7 from "./res/media/vampire_weekend_10.1.24/IMG_7599.mp4"
 
 
 
