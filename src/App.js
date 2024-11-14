@@ -67,17 +67,17 @@ import img_echo_1 from "./res/media/echo_5.16.24/IMG_8066.jpeg"
 import img_echo_2 from "./res/media/echo_5.16.24/IMG_8070.jpeg"
 import img_echo_3 from "./res/media/echo_5.16.24/IMG_8080.jpeg"
 
-// import mp4_echo_1 from "./res/media/echo_5.16.24/IMG_8075.mp4"
-// import mp4_echo_2 from "./res/media/echo_5.16.24/IMG_8076.mp4"
+import mp4_echo_1 from "./res/media/echo_5.16.24/IMG_8075.mp4"
+import mp4_echo_2 from "./res/media/echo_5.16.24/IMG_8076.mp4"
 
 // Pics from The Pixies with Modest Mouse
 import img_pixies_and_modest_1 from "./res/media/pixies_modest_6.14.24/IMG_6919.JPG"
 import img_pixies_and_modest_2 from "./res/media/pixies_modest_6.14.24/IMG_6920.JPG"
 
-// import mp4_pixies_and_modest_1 from "./res/media/pixies_modest_6.14.24/IMG_6915.mp4"
-// import mp4_pixies_and_modest_2 from "./res/media/pixies_modest_6.14.24/IMG_6916.mp4"
-// import mp4_pixies_and_modest_3 from "./res/media/pixies_modest_6.14.24/IMG_6917.mp4"
-// import mp4_pixies_and_modest_4 from "./res/media/pixies_modest_6.14.24/IMG_6921.mp4"
+import mp4_pixies_and_modest_1 from "./res/media/pixies_modest_6.14.24/IMG_6915.mp4"
+import mp4_pixies_and_modest_2 from "./res/media/pixies_modest_6.14.24/IMG_6916.mp4"
+import mp4_pixies_and_modest_3 from "./res/media/pixies_modest_6.14.24/IMG_6917.mp4"
+import mp4_pixies_and_modest_4 from "./res/media/pixies_modest_6.14.24/IMG_6921.mp4"
 
 // Pics from White Reaper
 import img_white_reaper_1 from "./res/media/white_reaper_6.21.24/IMG_8197.jpeg"
