@@ -37,8 +37,7 @@ const PastShows = () => {
                     <td>05/02/24</td>
                 </tr>
                 <tr>
-                    {/* <td><Link to="/Gallery/decemberists">The Decemberists</Link></td> */}
-                    <td>The Decemberists</td>
+                    <td><Link to="/Gallery/decemberists">The Decemberists</Link></td>
                     <td class="venue">The Anthem</td>
                     <td class="city">Washington D.C.</td>
                     <td>05/10/24</td>

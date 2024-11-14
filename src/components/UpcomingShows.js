@@ -12,19 +12,19 @@ const UpcomingShows = () => {
                     <th>Date</th>
                 </tr>
                 <tr>
-                    <td><a href="https://theatlantis.com/e/ratboys-palehound/" target='_blank'>The Ratboys</a></td>
+                    <td><a href="https://theatlantis.com/e/ratboys-palehound/" target='_blank' rel="noreferrer">The Ratboys</a></td>
                     <td class="venue">The Atlantis</td>
                     <td class="city">Washington D.C.</td>
                     <td>11/12/24</td>
                 </tr>
                 <tr>
-                    <td><a href="https://impconcerts.com/event/vundabar/" target='_blank'>Vundabar</a></td>
+                    <td><a href="https://impconcerts.com/event/vundabar/" target='_blank' rel="noreferrer">Vundabar</a></td>
                     <td class="venue">The Atlantis</td>
                     <td class="city">Washington D.C.</td>
                     <td>11/18/24</td>
                 </tr>
                 <tr>
-                    <td><a href="https://theanthemdc.com/event/yung-gravy-presents-the-grits-gravy-tour/" target='_blank'>Yung Gravy</a></td>
+                    <td><a href="https://theanthemdc.com/event/yung-gravy-presents-the-grits-gravy-tour/" target='_blank' rel="noreferrer">Yung Gravy</a></td>
                     <td class="venue">The Anthem</td>
                     <td class="city">Washington D.C.</td>
                     <td>11/22/24</td>
