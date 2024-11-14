@@ -97,16 +97,16 @@ import img_third_eye_4 from "./res/media/third_eye_7.19.24/IMG_8391.jpeg"
 import img_third_eye_5 from "./res/media/third_eye_7.19.24/IMG_8393.jpeg"
 import img_third_eye_6 from "./res/media/third_eye_7.19.24/IMG_8396.jpeg"
 
-// import mp4_third_eye_1 from "./res/media/third_eye_7.19.24/IMG_7095.mp4"
-// import mp4_third_eye_2 from "./res/media/third_eye_7.19.24/IMG_7097.mp4"
-// import mp4_third_eye_3 from "./res/media/third_eye_7.19.24/IMG_7099.mp4"
+import mp4_third_eye_1 from "./res/media/third_eye_7.19.24/IMG_7095.mp4"
+import mp4_third_eye_2 from "./res/media/third_eye_7.19.24/IMG_7097.mp4"
+import mp4_third_eye_3 from "./res/media/third_eye_7.19.24/IMG_7099.mp4"
 
 // Pics from O.A.R. with Fitz and the Tantrums
 import img_oar_and_fitz_1 from "./res/media/oar_fitz_7.17.24/IMG_5480.JPG"
 import img_oar_and_fitz_2 from "./res/media/oar_fitz_7.17.24/IMG_7137.JPG"
 
-// import mp4_oar_and_fitz_1 from "./res/media/oar_fitz_7.17.24/IMG_7139.mp4"
-// import mp4_oar_and_fitz_2 from "./res/media/oar_fitz_7.17.24/IMG_8436.mp4"
+import mp4_oar_and_fitz_1 from "./res/media/oar_fitz_7.17.24/IMG_7139.mp4"
+import mp4_oar_and_fitz_2 from "./res/media/oar_fitz_7.17.24/IMG_8436.mp4"
 
 // Pics from Glass Animals
 import img_glass_animals_1 from "./res/media/glass_animals_8.17.24/IMG_7245.JPG"
