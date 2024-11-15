@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Koncert_Klub_V2/static/css/main.bd003877.css",
-    "main.js": "/Koncert_Klub_V2/static/js/main.6114ceba.js",
+    "main.js": "/Koncert_Klub_V2/static/js/main.986a3955.js",
     "static/js/453.054fa16c.chunk.js": "/Koncert_Klub_V2/static/js/453.054fa16c.chunk.js",
     "static/media/stage_green.JPG": "/Koncert_Klub_V2/static/media/stage_green.bd77c2fb74f32696b272.JPG",
     "static/media/stage_red_2.JPG": "/Koncert_Klub_V2/static/media/stage_red_2.a4c48442980ffc45f5ea.JPG",
@@ -15,11 +15,11 @@
     "static/media/slick.woff": "/Koncert_Klub_V2/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Koncert_Klub_V2/index.html",
     "main.bd003877.css.map": "/Koncert_Klub_V2/static/css/main.bd003877.css.map",
-    "main.6114ceba.js.map": "/Koncert_Klub_V2/static/js/main.6114ceba.js.map",
+    "main.986a3955.js.map": "/Koncert_Klub_V2/static/js/main.986a3955.js.map",
     "453.054fa16c.chunk.js.map": "/Koncert_Klub_V2/static/js/453.054fa16c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd003877.css",
-    "static/js/main.6114ceba.js"
+    "static/js/main.986a3955.js"
   ]
 }
