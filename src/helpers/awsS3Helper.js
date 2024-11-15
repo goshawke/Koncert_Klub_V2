@@ -1,7 +1,3 @@
-
-import AWS from "aws-sdk"
-
-
 const bucketName = 'koncert-klub';
 const region = 'us-east-1';
 
