@@ -40,6 +40,7 @@ function App() {
           <Route path="Gallery/bts" element={ <Gallery prefix={ 'built_to_spill_9.8.24' } /> } />
           <Route path="Gallery/fidlar" element={ <Gallery prefix={ 'fidlar_10.14.24' } /> } />
           <Route path="Gallery/vampire_weekend" element={ <Gallery prefix={ 'vampire_weekend_10.1.24' } /> } />
+          <Route path="Gallery/ratboys" element={ <Gallery prefix={ 'ratboys-11.12.24' } /> } />
 
         </Routes>
       </div>

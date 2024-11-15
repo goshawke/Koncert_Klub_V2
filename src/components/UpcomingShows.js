@@ -12,12 +12,6 @@ const UpcomingShows = () => {
                     <th>Date</th>
                 </tr>
                 <tr>
-                    <td><a href="https://theatlantis.com/e/ratboys-palehound/" target='_blank' rel="noreferrer">The Ratboys</a></td>
-                    <td class="venue">The Atlantis</td>
-                    <td class="city">Washington D.C.</td>
-                    <td>11/12/24</td>
-                </tr>
-                <tr>
                     <td><a href="https://impconcerts.com/event/vundabar/" target='_blank' rel="noreferrer">Vundabar</a></td>
                     <td class="venue">The Atlantis</td>
                     <td class="city">Washington D.C.</td>

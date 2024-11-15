@@ -120,6 +120,12 @@ const PastShows = () => {
                     <td class="city">Washington D.C.</td>
                     <td>10/14/24</td>
                 </tr>
+                <tr>
+                    <td><Link to="/Gallery/ratboys">The Ratboys</Link></td>
+                    <td class="venue">The Atlantis</td>
+                    <td class="city">Washington D.C.</td>
+                    <td>11/12/24</td>
+                </tr>
             </table>
 
         </div>
