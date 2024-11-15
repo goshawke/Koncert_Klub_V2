@@ -17,6 +17,7 @@ const ImageSlider = ({ media=[] }) => {
     const videoExtensions = ['.mp4', '.webm', '.ogg'];
     return videoExtensions.some((ext) => file.toLowerCase().endsWith(ext));
   };
+  
 
   return (
     <div className="image-slider">
