@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Koncert_Klub_V2/static/css/main.bd003877.css",
+    "main.js": "/Koncert_Klub_V2/static/js/main.5131ecb3.js",
+    "static/js/453.8fcec800.chunk.js": "/Koncert_Klub_V2/static/js/453.8fcec800.chunk.js",
+    "static/media/stage_green.JPG": "/Koncert_Klub_V2/static/media/stage_green.bd77c2fb74f32696b272.JPG",
+    "static/media/stage_red_2.JPG": "/Koncert_Klub_V2/static/media/stage_red_2.a4c48442980ffc45f5ea.JPG",
+    "static/media/merriweather_bg_1.JPG": "/Koncert_Klub_V2/static/media/merriweather_bg_1.433450c472feaef7aba8.JPG",
+    "static/media/stage_blurple.JPG": "/Koncert_Klub_V2/static/media/stage_blurple.9391e7700c9d6ea09971.JPG",
+    "static/media/about_us_2.jpeg": "/Koncert_Klub_V2/static/media/about_us_2.4638d576c62e92b525ce.jpeg",
+    "static/media/pick.png": "/Koncert_Klub_V2/static/media/pick.b19b183d96981020a46b.png",
+    "static/media/slick.svg": "/Koncert_Klub_V2/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Koncert_Klub_V2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Koncert_Klub_V2/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Koncert_Klub_V2/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Koncert_Klub_V2/index.html",
+    "main.bd003877.css.map": "/Koncert_Klub_V2/static/css/main.bd003877.css.map",
+    "main.5131ecb3.js.map": "/Koncert_Klub_V2/static/js/main.5131ecb3.js.map",
+    "453.8fcec800.chunk.js.map": "/Koncert_Klub_V2/static/js/453.8fcec800.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd003877.css",
+    "static/js/main.5131ecb3.js"
+  ]
+}
