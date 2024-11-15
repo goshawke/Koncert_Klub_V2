@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter as Router, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 const Header = () => {
 
@@ -16,11 +16,6 @@ const Header = () => {
                     <li>
                         <NavLink activeClassName="active" to="/UpcomingShows">
                             Upcoming Shows
-                        </NavLink>
-                    </li>
-                    <li>
-                        <NavLink activeClassName="active" to="/Gallery">
-                            Gallery
                         </NavLink>
                     </li>
                     <li>
