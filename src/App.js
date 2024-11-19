@@ -41,6 +41,7 @@ function App() {
           <Route path="Gallery/fidlar" element={ <Gallery prefix={ 'fidlar_10.14.24' } /> } />
           <Route path="Gallery/vampire_weekend" element={ <Gallery prefix={ 'vampire_weekend_10.1.24' } /> } />
           <Route path="Gallery/ratboys" element={ <Gallery prefix={ 'ratboys-11.12.24' } /> } />
+          <Route path="Gallery/vundabar" element={ <Gallery prefix={ 'vundabar-11.18.24' } /> } />
 
         </Routes>
       </div>

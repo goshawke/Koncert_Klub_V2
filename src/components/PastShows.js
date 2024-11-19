@@ -126,6 +126,12 @@ const PastShows = () => {
                     <td class="city">Washington D.C.</td>
                     <td>11/12/24</td>
                 </tr>
+                <tr>
+                    <td><Link to="/Gallery/vundabar">Vundabar w/ Courting</Link></td>
+                    <td class="venue">The Atlantis</td>
+                    <td class="city">Washington D.C.</td>
+                    <td>11/18/24</td>
+                </tr>
             </table>
 
         </div>
