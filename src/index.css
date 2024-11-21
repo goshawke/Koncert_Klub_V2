@@ -220,7 +220,7 @@ header li {
   
 }
 
-#past_shows table thead th:nth-child(1) , #upcoming_shows table thead th:nth-child(1) {
+table thead th:nth-child(1) {
   width: 50%;
 }
 
@@ -236,7 +236,7 @@ header li {
   width: 50%;
 }
 
-#past_shows table td, #upcoming_shows table td{
+table td{
 
   /*Variable*/
   font-size: 1.25rem;
@@ -253,7 +253,7 @@ table a{
 }
 
 #section_about_us{
-  padding-top: 30px;
+  padding: 30px;
   background-image: url("res/backgrounds/merriweather_bg_1.JPG");
   background-position:center;
   background-size: cover;
@@ -378,18 +378,35 @@ footer {
     vertical-align: middle;
   }
 
+  #past_shows, #upcoming_shows, #section_about_us{
+    display: flex;
+    min-width: 300px;
+    width: 100%;
+    height: max-content;
+    min-height: 90vh;
+  
+    color: white;
+    flex-direction: column;
+    text-align: center;
+  
+    align-items: center;
+    justify-content: center;
+  
+   
+  }
+
   .feature h2{
       /*Variable*/
       font-size: 3.25rem;
   }
 
   .table-head{
-      /*Variable*/
+      /* Variable */
       font-size: 2.25rem;
   }
 
-  #upcoming_shows table td, #past_shows table td{
-      /*Variable*/
+  table td{
+      /* Variable */
       font-size: 1.75rem;
   }
 
@@ -397,12 +414,12 @@ footer {
       /*Variable*/
       font-size: 3.25rem;
   }
-  
+   
   #section_about_us img{
     /*Variable*/
-    min-height: 300px;
+    min-height: 400px;
     /*Variable*/
-    min-width: 400px;
+    min-width: 300px;
   
   }
   
@@ -435,7 +452,7 @@ footer {
   }
 
   header li {
-      padding-left: 10px;
+      padding-left: 15px;
       font-size: 1.75rem;
   }
 
@@ -447,19 +464,19 @@ footer {
   }
 
 
-  #past_shows table thead th:nth-child(1) , #upcoming_shows table thead th:nth-child(1) {
+  table thead th:nth-child(1){
       width: 35%;
   }
   
-  #past_shows table thead th:nth-child(2) , #upcoming_shows table thead th:nth-child(2) {
+  table thead th:nth-child(2) {
       width: 25%;
   }
   
-  #past_shows table thead th:nth-child(3), #upcoming_shows table  thead th:nth-child(3) {
+  table thead th:nth-child(3) {
       width: 20%;
   }
   
-  #past_shows table thead th:nth-child(4) #upcoming_shows table  thead th:nth-child(4) {
+  table thead th:nth-child(4) {
       width: 20%;
   }
 
@@ -469,9 +486,9 @@ footer {
   
   #section_about_us img{
     /*Variable*/
-    min-height: 400px;
+    min-height: 500px;
     /*Variable*/
-    min-width: 500px;
+    min-width: 400px;
   
   }
   
@@ -485,4 +502,25 @@ footer {
     height: 35px;
     font-size: 2rem;
   }
+  
+}
+
+@media only screen and (min-width:1300px)
+{
+  header h1 {
+    /*Variable*/
+    font-size: 4rem;
   }
+
+  header li {
+      padding-left: 15px;
+      font-size: 2.25rem;
+  }
+
+  header li::before {   
+    height: 15px;   
+    width: 15px;    
+    background-size: 15px;   
+    margin-right: 5px;
+  }
+}
