@@ -5,21 +5,21 @@ const Header = () => {
 
     return (
         <header className='header'>
-            <NavLink exact activeClassName="active" to="/" className="HomeLink"><h1>KoncertKlub</h1></NavLink>
+            <NavLink to="/" className="HomeLink"><h1>KoncertKlub</h1></NavLink>
             <nav>
                 <ul>
                     <li>
-                        <NavLink exact activeClassName="active" to="/PastShows">
+                        <NavLink to="/PastShows">
                             Past Shows
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink activeClassName="active" to="/UpcomingShows">
+                        <NavLink to="/UpcomingShows">
                             Upcoming Shows
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink activeClassName="active" to="/AboutUs">
+                        <NavLink to="/AboutUs">
                             About Us
                         </NavLink>
                     </li>
